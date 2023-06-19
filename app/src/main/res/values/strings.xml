@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RoomDatabase</string>
+    <string name="product_id">ID del producto</string>
+    <string name="not_assigned">Not asignado</string>
+    <string name="product_name">Nombre del producto</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ordenes">Ordenes</string>
+    <string name="order_id">Orden ID</string>
+    <string name="precio">Precio</string>
+</resources>
